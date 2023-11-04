@@ -1,0 +1,21 @@
+write html,css,js code to create a static website with pages like privacy policy, faq, terms and condition, security features , lading page, features explanation pages and etc for an expense tracker Android application named "SPENZER" that has the following features 
+
+1. can track daily expenses and income
+2. get monthly,weekly analytics
+3. can create category wise budget and compare that with real time data
+4. get reminders about upcoming expenses and bill payments
+5. track investments like stocks, real-estate, fixed deposit, gold, bond and others
+6. Get insights about investment performance on daily,weekly,monthly and custom duration
+7. Get analytics of overall portfolio
+8. track loans, emi and get insights on that
+9.  by tagging particular type of expense you can get detailed report example donation to a particular organization
+10. track multiple accounts like bank account,cash,credit card, trade account, wallet and get report on that
+11. can easily search  particular transaction within seconds 
+12. can manually add transaction of expense,income and transfer
+13. can add notes and reference images about the transaction
+14. ratio between expense and income in a particular duration
+
+security
+
+1. data will not go away from your device unless you setup a backup with google drive
+2. all data are processed within the device 
